@@ -1,0 +1,13 @@
+OrderID,OrderDate,ProductLine,Region,Country,Sales
+1001,2025-01-15,Electronics,North America,United States,1200
+1002,2025-01-18,Clothing,Europe,Germany,450
+1003,2025-02-05,Home & Kitchen,Asia,Japan,890
+1004,2025-02-12,Electronics,North America,Canada,1500
+1005,2025-03-01,Clothing,Europe,France,620
+1006,2025-03-10,Home & Kitchen,North America,United States,780
+1007,2025-04-02,Electronics,Asia,India,2100
+1008,2025-04-20,Clothing,North America,United States,530
+1009,2025-05-05,Home & Kitchen,Europe,United Kingdom,940
+1010,2025-05-18,Electronics,Europe,Germany,1350
+1011,2025-06-01,Electronics,North America,United States,1800
+1012,2025-06-15,Clothing,Asia,India,410
